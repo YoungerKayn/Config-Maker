@@ -81,7 +81,7 @@ You can add your own feeds by modifying `./github/feeds.conf.default`. For examp
 
 </details>
 
-## Credits / 鸣谢
+## Credit / 鸣谢
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
