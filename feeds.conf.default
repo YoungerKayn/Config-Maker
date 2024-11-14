@@ -1,17 +1,12 @@
 src-git packages https://github.com/coolsnowwolf/packages
-#src-git packages https://gitee.com/YoungerKayn/packages
 
 src-git luci https://github.com/coolsnowwolf/luci
-#src-git luci https://gitee.com/YoungerKayn/luci
 
 src-git routing https://github.com/coolsnowwolf/routing
-#src-git routing https://gitee.com/YoungerKayn/routing
 
 src-git kenzo https://github.com/kenzok8/openwrt-packages
-#src-git kenzo https://gitee.com/YoungerKayn/openwrt-packages
 
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
-#src-git passwall https://gitee.com/YoungerKayn/openwrt-passwall
 
 #src-git telephony https://git.openwrt.org/feed/telephony.git
 
